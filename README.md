@@ -1,2 +1,3 @@
-# my-bitbar-plugins
-My self written BitBar plugins
+# My BitBar Plugins
+
+Collection of self written BitBar plugins
