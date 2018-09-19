@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# <bitbar.title>SSH Status</bitbar.title>
+# <bitbar.title>SSH Quickconnect</bitbar.title>
 # <bitbar.version>v0.2.0</bitbar.version>
 # <bitbar.author>Keno Oelrichs Garcia</bitbar.author>
 # <bitbar.author.github>MrDrache333</bitbar.author.github>
 # <bitbar.image>http://i.imgur.com/s8FMCLG.png</bitbar.image>
-# <bitbar.desc>Continuously checks if hosts are available for ssh connection</bitbar.desc>
+# <bitbar.desc>Continuously checks if hosts are available for ssh connection with the abillity to Quickconnect</bitbar.desc>
 # <bitbar.dependencies>Bash</bitbar.dependencies>
 #
 # SSH Status plugin
